@@ -1,0 +1,92 @@
+
+   body{
+    background-color:rgb(230, 210, 174) ;
+   }
+   header{
+    
+    background-color: rgb(247, 227, 191);
+    width: 100%;
+    height: 100px;
+    margin: 0; 
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    right: 0;
+   }
+  .abdo{
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+
+  }
+  .hhh{
+    font-style: italic;
+    font-family: "cursive"; 
+    width: 30px;
+    height: 30px;
+    margin-top: -10px;
+    margin-left: 55px;
+  }
+  
+  .hhhh{
+    margin-top:-20px;
+    margin-left: 30px;
+    margin-bottom: 0%;
+  }
+  .navigation{
+    margin-right: 20px;
+    margin-top: -40px ;
+    text-align: end;
+  }
+.navigation a:hover{
+    color: rgb(233, 112, 112);
+    }
+    section{
+        padding: 100px 200px;
+    }
+  a.icone{
+    font-size: 20px;
+    margin: 10px;
+    color: rgb(5, 5, 5);
+  }
+  .FOTO{
+    margin-top: 100px;
+    width: 100%;
+    text-align: center;
+  }
+ .paragraphe{
+  position: absolute;
+  width: 98%;
+  height: 40px;
+  margin-top: -48px;
+  background-color: rgba(57, 51, 48, 0.55);
+  padding: 2px;
+ }  
+ .bot{
+  margin-left: 89%;
+  font-style: italic;
+  margin-top: 8px;
+  background-color: rgb(165, 42, 42);
+  border: 0 ;
+  color: rgb(255, 254, 254);
+  text-decoration: none;
+        font-weight: 600;
+        font-size:small;
+        display: inline-block;
+        padding: 5PX 20px;
+        letter-spacing: 1px;
+        border-radius: 15px;
+        transition: 0.7s ease;
+ }
+ .bot:hover {
+  background-color: rgb(8, 8, 168);
+  transform: scale(1.1) ;
+}
+ .aze{
+  text-align:left;
+  margin-right: 50%;
+  margin-top: -26px;
+  font-size: larger;
+  color: aliceblue;
+ }
